@@ -1,0 +1,7 @@
+{
+  "name": "Zydus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

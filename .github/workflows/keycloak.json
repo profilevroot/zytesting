@@ -1,0 +1,8 @@
+{
+  "realm": "divoc",
+  "auth-server-url": "http://52.172.132.121/auth/",
+  "ssl-required": "external",
+  "resource": "certificate-login",
+  "public-client": true,
+  "confidential-port": 0
+}
